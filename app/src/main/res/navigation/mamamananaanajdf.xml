@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mamamananaanajdf"
+    app:startDestination="@id/onnnnhiyjyiyhyyiyiyiyiFragment">
+
+    <fragment
+        android:id="@+id/onnnnhiyjyiyhyyiyiyiyiFragment"
+        android:name="com.socialquantum.west3di.vbgghhyhy.OnnnnhiyjyiyhyyiyiyiyiFragment"
+        android:label="fragment_onnnnhiyjyiyhyyiyiyiyi"
+        tools:layout="@layout/fragment_onnnnhiyjyiyhyyiyiyiyi" >
+        <action
+            android:id="@+id/action_onnnnhiyjyiyhyyiyiyiyiFragment_to_tvvofoigiggigiFragment"
+            app:destination="@id/tvvofoigiggigiFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/tvvofoigiggigiFragment"
+        android:name="com.socialquantum.west3di.vbgghhyhy.TvvofoigiggigiFragment"
+        android:label="fragment_tvvofoigiggigi"
+        tools:layout="@layout/fragment_tvvofoigiggigi" >
+        <action
+            android:id="@+id/action_tvvofoigiggigiFragment_to_theeieururrurFragment"
+            app:destination="@id/theeieururrurFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/theeieururrurFragment"
+        android:name="com.socialquantum.west3di.vbgghhyhy.TheeieururrurFragment"
+        android:label="fragment_theeieururrur"
+        tools:layout="@layout/fragment_theeieururrur" >
+        <action
+            android:id="@+id/action_theeieururrurFragment_to_foorororororrFragment"
+            app:destination="@id/foorororororrFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/foorororororrFragment"
+        android:name="com.socialquantum.west3di.hyfrgtgtgt.FoorororororrFragment"
+        android:label="fragment_foorororororr"
+        tools:layout="@layout/fragment_foorororororr" >
+        <action
+            android:id="@+id/action_foorororororrFragment_to_fivivivieieieviveivevekFragment"
+            app:destination="@id/fivivivieieieviveivevekFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fivivivieieieviveivevekFragment"
+        android:name="com.socialquantum.west3di.hyfrgtgtgt.FivivivieieieviveivevekFragment"
+        android:label="fragment_fivivivieieieviveivevek"
+        tools:layout="@layout/fragment_fivivivieieieviveivevek" />
+</navigation>

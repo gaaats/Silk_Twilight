@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gaam"
+    tools:context=".qeffrfrrf.Gaaamemememe3Activity2">
+
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/frhuihhhrf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.50" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gtijtogtihgtutg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.05" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gtlkngtgtgthgtutg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.95" />
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gtnkgtntghuhgt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.05" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gthgtiuhtggtgtuhgt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.95" />
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/hy2yu26j2uj2"
+        android:background="#392D02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:fontFamily="@font/kaushan_script_regular"
+        android:gravity="center"
+        android:lines="1"
+        android:text="@string/app_name"
+        android:textAllCaps="true"
+        android:textColor="#F6EACA"
+        android:textSize="26sp"
+        app:layout_constraintEnd_toEndOf="@id/gtlkngtgtgthgtutg"
+        app:layout_constraintStart_toStartOf="@id/gtijtogtihgtutg"
+        app:layout_constraintTop_toTopOf="@id/gtnkgtntghuhgt" />
+
+    <ScrollView
+        android:id="@+id/ffrhhgtiugthugthugt"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@id/clooose"
+        app:layout_constraintEnd_toEndOf="@id/gtlkngtgtgthgtutg"
+        app:layout_constraintStart_toStartOf="@id/gtijtogtihgtutg"
+        app:layout_constraintTop_toBottomOf="@id/gtbgtbgtgthgthugt">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/gt59555hyhy"
+            android:layout_width="wrap_content"
+            android:background="#392D02"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/kaushan_script_regular"
+            android:gravity="center"
+            android:paddingStart="16dp"
+            android:text="@string/gtyhhyyh"
+            android:textColor="#F6EACA"
+            android:textSize="22sp" />
+
+    </ScrollView>
+
+
+    <ImageView
+        android:id="@+id/gtbgtbgtgthgthugt"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:padding="10dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/goo"
+        app:layout_constraintEnd_toEndOf="@id/gtlkngtgtgthgtutg"
+        app:layout_constraintStart_toStartOf="@id/gtijtogtihgtutg"
+        app:layout_constraintTop_toBottomOf="@id/hy2yu26j2uj2" />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/clooose"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/kaushan_script_regular"
+        android:text="finish"
+        android:textColor="#F6CACA"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="@id/gthgtiuhtggtgtuhgt"
+        app:layout_constraintEnd_toEndOf="@id/gtlkngtgtgthgtutg"
+        app:layout_constraintStart_toStartOf="@id/gtijtogtihgtutg" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

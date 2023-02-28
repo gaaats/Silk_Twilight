@@ -1,0 +1,25 @@
+package com.socialquantum.west3di.gtgtjijijigt
+
+object NIFjjjirf {
+    var gtitghugt: String = "link"
+    var nhyjiohyiohy5: String = "apps"
+    var ghgtgt59: String? = "main_id"
+    val trolologttggt = "deeporg"
+    const val vfbrfgfrgrfgrfgyrfgy = "0db9fbee-6f14-4ef5-87c5-6f7ef6256607"
+    val bngjgtitghgtg = "19338444884040839751"
+    val rjgtjogtjjgtjtgjjgt = "tdb2"
+    val gtgthtghgthugt: String = "country"
+    val codeCodegtgt: String = "uff"
+    val onegtgt = "deviceID="
+    val vbfbbrfgfrggrffr = "sub_id_1="
+    val vfbhbfryurfgrfrf = "ad_id="
+    val gt2hyhyhy = "sub_id_4="
+    val tgkogtkgtkgtko = "sub_id_5="
+    val hy6hy59hy = "sub_id_6="
+    val gtgtitgigt = "naming"
+    val hy5hy95h = "com.socialquantum.west3di"
+    val gtjjgtjgtjgtjt = "CDBAdmmXxeXeuPy7sToSoE"
+    val tjiotojigtjgt: String = "myID"
+    var instIdgttg: String? = "instID"
+    var bngjgthgthtghgt: String = "link"
+}
