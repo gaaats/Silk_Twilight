@@ -233,8 +233,6 @@ class VebbboboboboActivity2 : AppCompatActivity() {
         val hyhyh5 = hy5hy5hy59hy.getString(gtitghugt, null)
 
 
-        Log.d("lolo", hyhyh5.toString())
-        Toast.makeText(this, "${hyhyh5}", Toast.LENGTH_SHORT).show()
 
         val j59uj5ju5ik5ik = hy5hy5hy59hy.getString(tjiotojigtjgt, null)
         val ju559ki995ik = hy5hy5hy59hy.getString(ghgtgt59, null)

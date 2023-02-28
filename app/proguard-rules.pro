@@ -16,21 +16,6 @@
 -keep class com.appsflyer.** { *; }
 -keep public class com.android.installreferrer.** { *; }
 
-
-#Coroutines
--keep class kotlinx.coroutines.**
--dontwarn kotlinx.coroutines.**
-
--keep class com.facebook.applinks.** { *; }
--keepclassmembers class com.facebook.applinks.** { *; }
--keep class com.facebook.FacebookSdk { *; }
--keep class com.google.android.gms.** { *; }
-
-# Facebook
--keep class com.facebook.** {
-   *;
-}
-
 #Mytracker
 -keep class com.my.tracker.** { *; }
 -dontwarn com.my.tracker.**
@@ -48,3 +33,13 @@
 #Onesignal
 -dontwarn com.onesignal.**
 -keep class com.onesignal.ActivityLifecycleListenerCompat** {*;}
+
+#Coroutines
+-keep class kotlinx.coroutines.**
+-dontwarn kotlinx.coroutines.**
+
+
+# Facebook
+-keep class com.facebook.** {
+   *;
+}

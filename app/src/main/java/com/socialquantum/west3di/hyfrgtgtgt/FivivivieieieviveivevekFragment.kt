@@ -5,15 +5,12 @@ import android.content.Intent
 import android.content.SharedPreferences
 import android.os.Build
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Toast
+import androidx.fragment.app.Fragment
 import com.appsflyer.AppsFlyerLib
-import com.socialquantum.west3di.vbgbbhy.GaamememememActivity2
 import com.socialquantum.west3di.R
-import com.socialquantum.west3di.vbgghhyhy.VebbboboboboActivity2
 import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.bngjgthgthtghgt
 import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.codeCodegtgt
 import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.ghgtgt59
@@ -21,16 +18,18 @@ import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.gt2hyhyhy
 import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.gtgthtghgthugt
 import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.gtgtitgigt
 import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.gtitghugt
-import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.tjiotojigtjgt
 import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.hy5hy95h
 import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.hy6hy59hy
 import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.instIdgttg
 import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.nhyjiohyiohy5
 import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.onegtgt
+import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.tgkogtkgtkgtko
+import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.tjiotojigtjgt
 import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.trolologttggt
 import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.vbfbbrfgfrggrffr
-import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.tgkogtkgtkgtko
 import com.socialquantum.west3di.gtgtjijijigt.NIFjjjirf.vfbhbfryurfgrfrf
+import com.socialquantum.west3di.vbgbbhy.GaamememememActivity2
+import com.socialquantum.west3di.vbgghhyhy.VebbboboboboActivity2
 import org.koin.android.ext.android.inject
 import org.koin.core.qualifier.named
 
@@ -84,8 +83,6 @@ class FivivivieieieviveivevekFragment : Fragment() {
         val cdvedtdeffdeed = "$vbffrygfrrfgrfg$onegtgt$cdvdetfedfedffedfed&$vfbhbfryurfgrfrf$g59gt59gt95g&$gt2hyhyhy$gthgtigthgthgt&$tgkogtkgtkgtko$gtojigtjtgjgtjigtj&$hy6hy59hy$gtgtitgigt"
         val vbyrfgrfrfg = "$vbffrygfrrfgrfg$vbfbbrfgfrggrffr$bgnbnbgnbguhbghg&$onegtgt$afIdhyhyhy&$vfbhbfryurfgrfrf$bngngughgthugt&$gt2hyhyhy$gthgtigthgthgt&$tgkogtkgtkgtko$gtojigtjtgjgtjigtj&$hy6hy59hy$trolologttggt"
         val bmgjhyjhyjojihy = "$vbffrygfrrfgrfg$vbfbbrfgfrggrffr$bgnbnbgnbguhbghg&$onegtgt$cdvdetfedfedffedfed&$vfbhbfryurfgrfrf$g59gt59gt95g&$gt2hyhyhy$gthgtigthgthgt&$tgkogtkgtkgtko$gtojigtjtgjgtjigtj&$hy6hy59hy$trolologttggt"
-
-        Toast.makeText(requireContext(), "$hihfhgtgthgt deep $bgnbnbgnbguhbghg", Toast.LENGTH_SHORT).show()
 
         when(hihfhgtgthgt) {
             "1" ->

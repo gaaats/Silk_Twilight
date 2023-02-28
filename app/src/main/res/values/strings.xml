@@ -1,10 +1,8 @@
 <resources>
     <string name="app_name">Silk Twilight</string>
-    <string name="gtyhhyyh">Warcraft is a franchise of video games, novels, and other media created by Blizzard Entertainment. The series is made up of five core games: Warcraft: Orcs Humans, Warcraft II: Tides of Darkness, Warcraft III: Reign of Chaos, World of Warcraft, and Hearthstone. The first three of these core games are in the real-time strategy genre, where opposing players command virtual armies in battle against each other or a computer-controlled enemy</string>
+    <string name="gtyhhyyh">The Tomb Raider franchise had many incredible settings and some of the best escape sequences in video games, as well as a truly iconic gaming heroine; Tomb Raider IV: The Last Revelation is one of the franchises best. This fun game takes its players on a deeply atmospheric adventure and helps them learn more about ancient tombs and the tales of Ancient Egypt.</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="gthyhjjukiikik">e3a4d65b0a17abcfd974b2c9445206c7</string>
-<!--    <string name="gthyhjjukiikik">f9cf5f246114ed240ccd31ab172cee3c</string>-->
-<!--    <string name="gtthhyhyhy">505813675078518</string>-->
-    <string name="gtthhyhyhy">1251798448719972</string>
+    <string name="facebook_client_token">f9cf5f246114ed240ccd31ab172cee3c</string>
+    <string name="facebook_app_id">505813675078518</string>
 </resources>

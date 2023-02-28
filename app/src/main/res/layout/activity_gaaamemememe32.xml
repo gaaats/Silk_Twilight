@@ -65,10 +65,11 @@
 
     <ScrollView
         android:id="@+id/ffrhhgtiugthugthugt"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="0dp"
         app:layout_constraintBottom_toTopOf="@id/clooose"
         app:layout_constraintEnd_toEndOf="@id/gtlkngtgtgthgtutg"
+        android:layout_marginBottom="16dp"
         app:layout_constraintStart_toStartOf="@id/gtijtogtihgtutg"
         app:layout_constraintTop_toBottomOf="@id/gtbgtbgtgthgthugt">
 
@@ -106,7 +107,7 @@
         android:layout_marginTop="8dp"
         android:fontFamily="@font/kaushan_script_regular"
         android:text="finish"
-        android:textColor="#F6CACA"
+        android:textColor="#F6EACA"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="@id/gthgtiuhtggtgtuhgt"
         app:layout_constraintEnd_toEndOf="@id/gtlkngtgtgthgtutg"

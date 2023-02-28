@@ -111,11 +111,11 @@
         android:background="@color/purple_500"
         android:fontFamily="@font/opensans_extra_bold"
         android:gravity="center"
-        android:padding="10dp"
+        android:padding="3dp"
         android:text="best game\n for all players\n mega bonus inside"
         android:textAllCaps="true"
         android:textColor="#EFE6AA"
-        android:textSize="30sp"
+        android:textSize="25sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@id/gtojjgtjgtjtg" />
